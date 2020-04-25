@@ -733,10 +733,10 @@ picture img{
     }
 
     .popup-inner{
-    width: 354px;
-    height: 75%;
-    margin: 25% auto 10%;
-    background-color: #ffffff;
+        width: 354px;
+        height: 75%;
+        margin: 25% auto 10%;
+        background-color: #ffffff;
     }
 
     .popup-content{
@@ -746,12 +746,14 @@ picture img{
     .popup-title{
         position: relative;
         top: -60px;
+        font-size: 20px;
     }
     
     .popup-text{
         position: relative;
         top: -60px;
         text-align: justify;
+        font-size: 12px;
     }
     
     .close{
@@ -889,13 +891,14 @@ picture img{
     .popup-title{
         position: relative;
         top: -60px;
-        font-size: 27px;
+        font-size: 20px;
     }
     
     .popup-text{
         position: relative;
         top: -60px;
         text-align: justify;
+        font-size: 12px;
     }
         
     .close{
