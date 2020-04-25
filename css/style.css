@@ -753,7 +753,7 @@ picture img{
         position: relative;
         top: -60px;
         text-align: justify;
-        font-size: 12px;
+        font-size: 14px;
     }
     
     .close{
@@ -879,7 +879,7 @@ picture img{
 
     .popup-inner{
         width: 200px;
-        height: 75%;
+        height: 70%;
         margin: 25% auto 10%;
         background-color: #ffffff;
     }
@@ -898,7 +898,7 @@ picture img{
         position: relative;
         top: -60px;
         text-align: justify;
-        font-size: 12px;
+        font-size: 14px;
     }
         
     .close{
