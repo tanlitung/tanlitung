@@ -1,2 +1,10 @@
-var nav = document.getElementsByTagName("nav");
-console.log(nav[0].textContent);
+$(document).ready(function() {
+
+    $(".burger-nav").on("click", function(){
+        $("header nav ul").toggleClass("open");
+    });
+
+    $("nav>ul>li>a").on("click", function(){
+        $("header nav ul").toggleClass("open");
+    });
+});
